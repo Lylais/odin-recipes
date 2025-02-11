@@ -45,6 +45,10 @@ h1{
 
 .items img:hover {
     transform: scale(1.05); /* Alternative plus fluide */
+    border-radius : 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: green
 }
 
 
