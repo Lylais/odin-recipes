@@ -11,6 +11,8 @@
 .logo{
     display : block;
     margin : 12px auto 50px;
+    height : 100px;
+    width : 100px;
 
 }
 
@@ -18,7 +20,7 @@ h1 {
     text-align : center;
     margin-bottom : 50px;
     font-weight: 100;
-    font-size : 52px;
+    
 }
 
 h2 {
@@ -44,14 +46,14 @@ h2 {
 
 
 .image img{
-    width : 500px;
-    height : 700px;
+    width : 350px;
+    height : 500px;
     margin-left : 50px;
     border-radius: 10px;
 
 }
 .description{
-    height : 700px;
+    height : 500px;
     border-style: solid;
     margin-right : 5px;
     margin-left : 50px;
@@ -65,24 +67,22 @@ h2 {
 
 h2{
     padding : 40px 20px;
-    font-size : 40px;
+    font-size : 30px;
 }
 .description p{
     margin-right : 50px;
     margin-left : 22px;
     
-    font-size: 35px;
+    
 }
-
 .description a{
     margin-right : 50px;
     margin-left : 22px;
-    font-size: 29px;
 }
 
 .ingredients{
     background-color :rgb(240, 236, 230);
-    min-width : 500px;
+    min-width : 350px;
     margin-left : 50px;
     border-radius: 10px;
 
@@ -106,6 +106,4 @@ h2{
 li{
     margin-right : 50px;
     margin-left : 55px;
-    
-    font-size: 35px;
 }
